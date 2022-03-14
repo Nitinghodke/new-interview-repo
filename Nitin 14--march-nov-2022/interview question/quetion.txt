@@ -1,0 +1,7 @@
+Difference between null and undefined? 
+
+What are promises ?
+
+What is Async await?
+
+Javascript is single threaded or multiple threaded and asynchronous or synchronous? 
